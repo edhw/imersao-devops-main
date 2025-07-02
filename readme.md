@@ -38,6 +38,11 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
    uvicorn app:app --reload
    ```
 
+  **OBS: ABRIR O TERMINAL EM MODO ADMIN**
+   ```sh
+   Set-ExecutionPolicy RemoteSigned
+   ```  
+
 6. **Acesse a documentação interativa:**
 
    Abra o navegador e acesse:  
